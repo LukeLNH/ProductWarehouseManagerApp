@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b20d561-9508-4a02-8304-5752984129f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="301" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1XJOEM9meLZLIcdRBMSePZDodph" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jfreechart-1.0.19.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="WarehouseManagerApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WarehouseManagerApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="persistence" />
+      <option name="MAIN_CLASS_NAME" value="persistence.JsonReaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WarehouseManagerApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="persistence" />
+      <option name="MAIN_CLASS_NAME" value="persistence.JsonWriterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WarehouseManagerApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.ProductListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListTest.testMostProfitableProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WarehouseManagerApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.ProductListTest" />
+      <option name="METHOD_NAME" value="testMostProfitableProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ProductListTest.testMostProfitableProducts" />
+        <item itemvalue="JUnit.ProductListTest" />
+        <item itemvalue="JUnit.JsonReaderTest" />
+        <item itemvalue="JUnit.JsonWriterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b20d561-9508-4a02-8304-5752984129f8" name="Default Changelist" comment="" />
+      <created>1580760617876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580760617876</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Phase 1 Task 2: Added documentation to readme on what the application will do, who will use it and why it is interesting">
+      <created>1580762712305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580762712305</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Phase 1 Task 2: Added documentation to readme on what the application will do, who will use it and why it is interesting">
+      <created>1580849568987</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580849568987</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Phase 1 Task 3 and 4: Created and realized user stories">
+      <created>1581232357400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581232357400</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Phase 1 Task 3 and 4: Created and realized user stories, updated the getMostProfitable method in ProductList (made it more efficient)">
+      <created>1581290198304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581290198304</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Phase 1 Task 5: Implemented UI interface">
+      <created>1581320491992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581320491992</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Phase 1 Task 5: Implemented UI interface + added addition test for ProductListTest">
+      <created>1581320670851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581320670851</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Phase 1 Task 5: Fixed minor println statements">
+      <created>1581321603923</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581321603923</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Phase 1 Task 5: Added additional test case for when getProductOfName returns null">
+      <created>1581322405852</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581322405852</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Phase 1 Task 5: Fixed bugs with the remove product method and the get most profitable method">
+      <created>1581386183828</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581386183828</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Phase 1 Task 5: More minor bug fixes; ensure all user stories are working">
+      <created>1581408515451</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581408515451</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Phase 1 Task 5: Incorporated exceptions and exception handling into project">
+      <created>1581457150263</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581457150263</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Phase 1 Task 5: Removed an unused exception class">
+      <created>1581458518531</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581458518531</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Phase 1 Task 5: Added an additional exception case">
+      <created>1581536646402</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581536646403</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Phase 1 Task 5: Added additional comments and an addition exception case">
+      <created>1581540348749</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581540348749</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Before implementing JSON">
+      <created>1581653101192</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1581653101192</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Phase 2: Implemented Data persistence using JSON (without functionality to create new saved files)">
+      <created>1581794034449</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1581794034449</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Phase 2: Implemented Data persistence using JSON">
+      <created>1581800903317</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1581800903317</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Phase 2: Implemented Data persistence using JSON, added a code coverage test case">
+      <created>1581817189750</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1581817189750</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Phase 2: Implemented Data persistence using JSON, added dummy constructors">
+      <created>1581817749688</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1581817749688</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Phase 3: Implemented GUI without Pending Orders">
+      <created>1584513707372</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1584513707372</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Phase 3: Added Pending Orders and additional test cases">
+      <created>1584666475867</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1584666475871</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Phase 3: Added test cases for JsonWriter and JsonReader for pending orders">
+      <created>1584674878407</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1584674878407</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Phase 3: Added test cases for JsonWriter and JsonReader for pending orders and changed a normal class into a nested class">
+      <created>1584675126925</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1584675126925</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Phase 3: Added instructions for grader to the readme">
+      <created>1584676436122</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1584676436122</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Phase 3: refactored PendingOrdersFrame into its own class for readability">
+      <created>1584735321373</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1584735321373</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Phase 4: completed task 2 and task 3">
+      <created>1585291795214</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585291795214</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Phase 4: Fixed a coupling problem with GUI, ProductList and PendingOrdersFrame. Updated UML diagram appropriately">
+      <created>1585457764081</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585457764081</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Phase 4: Updated UML diagram and some tests for ProductListTest">
+      <created>1585723499196</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585723499196</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Phase 1 Task 5: Implemented UI interface" />
+    <MESSAGE value="Phase 1 Task 5: Implemented UI interface + added addition test for ProductListTest" />
+    <MESSAGE value="Phase 1 Task 5: Fixed minor println statements" />
+    <MESSAGE value="Phase 1 Task 5: Added additional test case for when getProductOfName returns null" />
+    <MESSAGE value="Phase 1 Task 5: Fixed bugs with the remove product method and the get most profitable method" />
+    <MESSAGE value="Phase 1 Task 5: More minor bug fixes; ensure all user stories are working" />
+    <MESSAGE value="Phase 1 Task 5: Incorporated exceptions and exception handling into project" />
+    <MESSAGE value="Phase 1 Task 5: Removed an unused exception class" />
+    <MESSAGE value="Phase 1 Task 5: Added an additional exception case" />
+    <MESSAGE value="Phase 1 Task 5: Added additional comments and an addition exception case" />
+    <MESSAGE value="Before implementing JSON" />
+    <MESSAGE value="Phase 2: Implemented Data persistence using JSON (without functionality to create new saved files)" />
+    <MESSAGE value="Phase 2: Implemented Data persistence using JSON" />
+    <MESSAGE value="Phase 2: Implemented Data persistence using JSON, added a code coverage test case" />
+    <MESSAGE value="Phase 2: Implemented Data persistence using JSON, added dummy constructors" />
+    <MESSAGE value="Phase 3: Implemented GUI without Pending Orders" />
+    <MESSAGE value="Phase 3: Added Pending Orders and additional test cases" />
+    <MESSAGE value="Phase 3: Added test cases for JsonWriter and JsonReader for pending orders" />
+    <MESSAGE value="Phase 3: Added test cases for JsonWriter and JsonReader for pending orders and changed a normal class into a nested class" />
+    <MESSAGE value="Phase 3: Added instructions for grader to the readme" />
+    <MESSAGE value="Phase 3: refactored PendingOrdersFrame into its own class for readability" />
+    <MESSAGE value="Phase 4: completed task 1 and task 2" />
+    <MESSAGE value="Phase 4: completed task 2 and task 3" />
+    <MESSAGE value="Phase 4: Fixed a coupling problem with GUI, ProductList and PendingOrdersFrame. Updated UML diagram appropriately" />
+    <MESSAGE value="Phase 4: Updated UML diagram and some tests for ProductListTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phase 4: Updated UML diagram and some tests for ProductListTest" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581748698869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="393" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1581748698869" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1584595988295">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584595988295" />
+    <state x="302" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580948182479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="302" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1580948182479" />
+    <state x="389" y="189" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581411395698">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="389" y="189" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1581411395698" />
+    <state x="83" y="0" key="CommitChangelistDialog2" timestamp="1585723497362">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="83" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585723497362" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1584407466337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584407466337" />
+    <state width="1259" height="104" key="GridCell.Tab.0.bottom" timestamp="1585792451656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="104" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585792451656" />
+    <state width="1259" height="104" key="GridCell.Tab.0.center" timestamp="1585792451656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="104" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585792451656" />
+    <state width="1259" height="104" key="GridCell.Tab.0.left" timestamp="1585792451656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="104" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585792451656" />
+    <state width="1259" height="104" key="GridCell.Tab.0.right" timestamp="1585792451656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="104" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585792451656" />
+    <state width="1259" height="195" key="GridCell.Tab.1.bottom" timestamp="1583562667702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583562667702" />
+    <state width="1259" height="195" key="GridCell.Tab.1.center" timestamp="1583562667702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583562667702" />
+    <state width="1259" height="195" key="GridCell.Tab.1.left" timestamp="1583562667702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583562667702" />
+    <state width="1259" height="195" key="GridCell.Tab.1.right" timestamp="1583562667702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583562667702" />
+    <state x="221" y="76" key="IDE.errors.dialog" timestamp="1581298332214">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="76" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1581298332214" />
+    <state x="146" y="0" key="SettingsEditor" timestamp="1584407470381">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="146" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584407470381" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1585723501534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585723501534" />
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1586242263689">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586242263689" />
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup" timestamp="1583529181092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup/0.0.1280.680@0.0.1280.680" timestamp="1583529181092" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1585275569416">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1585275569416" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581308991297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581308991297" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$Main.ic" NAME="Main Coverage Results" MODIFIED="1584599486758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$JsonReaderTest.ic" NAME="JsonReaderTest Coverage Results" MODIFIED="1581817714195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$JsonWriterTest.ic" NAME="JsonWriterTest Coverage Results" MODIFIED="1581817724705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$PendingOrderTest.ic" NAME="PendingOrderTest Coverage Results" MODIFIED="1584665953695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$ProductEntryTest.ic" NAME="ProductEntryTest Coverage Results" MODIFIED="1584664525221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$ProductListTest.ic" NAME="ProductListTest Coverage Results" MODIFIED="1584665964859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+{"0":[{"numStock":70,"unitsSold":30,"name":"Product 1","type":"Test","costPerUnit":20.0,"pricePerUnit":50.0},{"numStock":60,"unitsSold":40,"name":"Product 2","type":"Test","costPerUnit":7.0,"pricePerUnit":30.0}],"1":[{"quantity":20,"name":"Product 1","type":"Test","buyerID":"buyer1"},{"quantity":30,"name":"Product 1","type":"Test","buyerID":"buyer2"}]}
